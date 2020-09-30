@@ -1,0 +1,8 @@
+This folder has relevant scripts for isolating and studying geomagnetic tides. 
+For more information, or to download the related data, please visit this website: 
+http://geomag.colorado.edu/IOMS-M2
+
+Reference:
+Schnepf, N. R., M. Nair, A. Maute, N. M. Pedatella, A. Kuvshinov, A. D. Richmond 
+(2018). A comparison of model-based ionospheric and ocean tidal magnetic signals 
+with observatory data. Geophysical Research Letters. (doi: 10.1029/2018GL078487)
