@@ -8,6 +8,8 @@ oceanic geomagnetic tides.
 These codes were written in 2016-2017 by Neesha R. Schnepf. If you use these codes
 for scientific research, please cite the below references.
 
+Note: codes that start with "F_" denote a Matlab function script.
+
 References:
 
 Schnepf, N. R., M. Nair, A. Maute, N. M. Pedatella, A. Kuvshinov, A. D. Richmond (2018). 
