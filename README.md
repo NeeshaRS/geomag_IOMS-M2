@@ -5,9 +5,11 @@ Visit http://geomag.colorado.edu/IOMS-M2 for more information or to download the
 geomagnetic data produced from numerical simulations of Earth's ionospheric and
 oceanic geomagnetic tides.
 
-These codes were written in 2016-2017 by Neesha R. Schnepf.
+These codes were written in 2016-2017 by Neesha R. Schnepf. If you use these codes
+for scientific research, please cite the below references.
 
 References:
+
 Schnepf, N. R., M. Nair, A. Maute, N. M. Pedatella, A. Kuvshinov, A. D. Richmond (2018). 
 A comparison of model-based ionospheric and ocean tidal magnetic signals with observatory 
 data. Geophysical Research Letters. (doi: 10.1029/2018GL078487)
